@@ -24,6 +24,17 @@ We are very proud to deliver the following:
     </item>
     
     <item>
+      <title>The beta is born</title>
+      <link>/2018/04/the-beta-is-born/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/04/the-beta-is-born/</guid>
+      <description>We worked hard to incorporate all the great feedback we gathered over the last year, now we are delivering a have a great beta version of the Tercen Cloud. We focussed on issues which researchers face day to day when dealing with large amount of data.
+We are very proud to deliver the following:
+Easy one button installation forNew app store (i.e. library) on githubAbility to import/export workflowsNew admin menuImproved user managementNew resource management (for CPU and Disk)Upgraded user interfaceNew GUI accessNew data table viewsNew progress barsNew logsNew scrolling modesImproved performanceGithub integration (for R code)New R code package managementNew full programmatic access to TercenNew Tercen R package, called teRcenand more…The beta version is available on request just send an an email to info@tercen.</description>
+    </item>
+    
+    <item>
       <title>The feedback</title>
       <link>/2017/09/the-feedback/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
