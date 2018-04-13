@@ -1,0 +1,17 @@
+---
+title: "The feedback"
+author: tercen
+date: '2017-09-01'
+slug: moving-forward-with-alpha-feedback
+categories: []
+tags: []
+image: "post/stairs.png"
+---
+
+After many sessions with researchers. We are delighted to sum up the major feedback we gathered during demonstrations of the __alpha__.
+
+* Privacy of data is paramount especially when the researchers are working with measurement derived from human subjects
+* The methodology approaches are just as important as the tool (i.e. knowing what to do with the tool as opposed what the features the tool offers)
+* Open source of methodology code is non-negotiable for many of the researchers
+
+Stay tuned to see who we digest this and use it to put some cool features into the __beta version__.

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tercen Blog</title>
+    <link>/</link>
+    <description>Recent content on Tercen Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The beta is born</title>
+      <link>/2018/05/the-beta-is-born/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/the-beta-is-born/</guid>
+      <description>We worked hard to incorporate all the great feedback we gathered over the last year, now we are delivering a have a great beta version of the Tercen Cloud. We focussed on issues which researchers face day to day when dealing with large amount of data.
+We are very proud to deliver the following:
+Easy one button installation forNew app store (i.e. library) on githubAbility to import/export workflowsNew admin menuImproved user managementNew resource management (for CPU and Disk)Upgraded user interfaceNew GUI accessNew data table viewsNew progress barsNew logsNew scrolling modesImproved performanceGithub integration (for R code)New R code package managementNew full programmatic access to TercenNew Tercen R package, called teRcenand more…The beta version is available on request just send an an email to info@tercen.</description>
+    </item>
+    
+    <item>
+      <title>The feedback</title>
+      <link>/2017/09/the-feedback/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/the-feedback/</guid>
+      <description>After many sessions with researchers. We are delighted to sum up the major feedback we gathered during demonstrations of the alpha.
+Privacy of data is paramount especially when the researchers are working with measurement derived from human subjectsThe methodology approaches are just as important as the tool (i.e. knowing what to do with the tool as opposed what the features the tool offers)Open source of methodology code is non-negotiable for many of the researchersStay tuned to see who we digest this and use it to put some cool features into the beta version.</description>
+    </item>
+    
+    <item>
+      <title>The alpha is born</title>
+      <link>/2017/01/the-alpha-is-born/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/01/the-alpha-is-born/</guid>
+      <description>After working throughout 2016. We have a great alpha version of the Tercen Cloud. We focussed on issues which researchers face day to day when dealing with large amount of data.
+We are very proud to deliver the following:
+Interactive multi-dimensional visualsWorkflow editorA new visual for pairwise plots called multi-pairwiseA wizard to help researchers perform workflowsA rtercen R libraryAbility to organize researchers into Projects and TeamsAn up-to-date cloud-base architecture using docker, CouchDB and cephFSA invitation system for new usersThe alpha version allows us to demo the concepts and go out to the researchers and hear what they say about the approach.</description>
+    </item>
+    
+    <item>
+      <title>The begining</title>
+      <link>/2016/01/the-begining/</link>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/01/the-begining/</guid>
+      <description>The data deluge has arrived. It is here to stay. We aim to provide you with the cloud tools necessary to capitalise on this vast amount of information. Tercen is here to help others use their data more effectively and ultimately help them get back into control. Once data control is restored then actionable insights will follow. I hope you stay tuned to what we are doing at Tercen and try some of our exciting and free online cloud tools.</description>
+    </item>
+    
+  </channel>
+</rss>

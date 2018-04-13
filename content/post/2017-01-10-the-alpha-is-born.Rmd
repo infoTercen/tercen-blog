@@ -1,0 +1,24 @@
+---
+title: The alpha is born
+author: tercen
+date: '2017-01-10'
+slug: the-alpha-is-born
+categories: []
+tags: []
+---
+
+After working throughout 2016. We have a great __alpha__ version of the Tercen Cloud. We focussed on issues which researchers face day to day when dealing with large amount of data.
+
+We are very proud to deliver the following:
+
+* Interactive multi-dimensional visuals
+* Workflow editor
+* A new visual for pairwise plots called __multi-pairwise__
+* A wizard to help researchers perform workflows
+* A `rtercen` R library
+* Ability to organize researchers into __Projects__ and __Teams__
+* An up-to-date cloud-base architecture using __docker__, __CouchDB__ and __cephFS__
+* A invitation system for new users
+
+The __alpha__ version allows us to demo the concepts and go out to the researchers and hear what they say about the approach. This feedback is valuable and is the major input for our __beta__ (scheduled begining of 2018).
+
