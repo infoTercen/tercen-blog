@@ -7,21 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>The beta is born</title>
-      <link>/2018/05/the-beta-is-born/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/05/the-beta-is-born/</guid>
-      <description>We worked hard to incorporate all the great feedback we gathered over the last year, now we are delivering a have a great beta version of the Tercen Cloud. We focussed on issues which researchers face day to day when dealing with large amount of data.
-We are very proud to deliver the following:
-Easy one button installation forNew app store (i.e. library) on githubAbility to import/export workflowsNew admin menuImproved user managementNew resource management (for CPU and Disk)Upgraded user interfaceNew GUI accessNew data table viewsNew progress barsNew logsNew scrolling modesImproved performanceGithub integration (for R code)New R code package managementNew full programmatic access to TercenNew Tercen R package, called teRcenand more…The beta version is available on request just send an an email to info@tercen.</description>
-    </item>
     
     <item>
       <title>The beta is born</title>
