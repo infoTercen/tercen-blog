@@ -3,6 +3,7 @@ title: The alpha is born
 author: tercen
 date: '2017-01-10'
 slug: the-alpha-is-born
+description: "After working throughout 2016. We have a great alpha version of the Tercen Cloud. We focussed on issues which researchers face day to day when dealing with large amount of data"
 categories: []
 tags: []
 ---
