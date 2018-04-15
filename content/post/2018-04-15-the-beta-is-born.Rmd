@@ -1,13 +1,13 @@
 ---
 title: The beta is born
 author: tercen
-date: '2018-04-30'
+date: '2018-04-15'
 slug: the-beta-is-born
 categories: []
 tags: []
 ---
 
-We worked hard to incorporate all the great feedback we gathered over the last year, now we are delivering a have a great __beta__ version of the Tercen Cloud. We focussed on issues which researchers face day to day when dealing with large amount of data.
+We worked hard to incorporate all the great feedback we gathered over the last year and half, now we are delivering a have a great __beta__ version of the Tercen Cloud. We focussed on issues which researchers face day to day when dealing with large amount of data.
 
 We are very proud to deliver the following:
 
